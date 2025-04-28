@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import com.gurobi.gurobi.*;
 
-public class Elaborato {
+public class Progetto {
 
     private static GRBEnv ambiente;
     private static int numeroRottami; 
